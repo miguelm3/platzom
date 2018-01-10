@@ -10,12 +10,12 @@ Realizado para el curso de [Platzi](http://www.platzi.com).
 - Si la palabra tiene 10 o más letras, partir a la mitad y poner un guión en el medio
 
 
-##Instalación
+## Instalación
 ```
 npm install platzommiguelm3
 ```
 
-##Uso
+## Uso
 ```
 import platzom from 'platzommiguelm3'
 
